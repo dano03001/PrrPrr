@@ -1,0 +1,13 @@
+C:\Users\david\source\repos\Klasser\Klasser\bin\Debug\netcoreapp3.1\Klasser.exe
+C:\Users\david\source\repos\Klasser\Klasser\bin\Debug\netcoreapp3.1\Klasser.deps.json
+C:\Users\david\source\repos\Klasser\Klasser\bin\Debug\netcoreapp3.1\Klasser.runtimeconfig.json
+C:\Users\david\source\repos\Klasser\Klasser\bin\Debug\netcoreapp3.1\Klasser.runtimeconfig.dev.json
+C:\Users\david\source\repos\Klasser\Klasser\bin\Debug\netcoreapp3.1\Klasser.dll
+C:\Users\david\source\repos\Klasser\Klasser\bin\Debug\netcoreapp3.1\Klasser.pdb
+C:\Users\david\source\repos\Klasser\Klasser\obj\Debug\netcoreapp3.1\Klasser.csprojAssemblyReference.cache
+C:\Users\david\source\repos\Klasser\Klasser\obj\Debug\netcoreapp3.1\Klasser.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\Klasser\Klasser\obj\Debug\netcoreapp3.1\Klasser.AssemblyInfo.cs
+C:\Users\david\source\repos\Klasser\Klasser\obj\Debug\netcoreapp3.1\Klasser.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Klasser\Klasser\obj\Debug\netcoreapp3.1\Klasser.dll
+C:\Users\david\source\repos\Klasser\Klasser\obj\Debug\netcoreapp3.1\Klasser.pdb
+C:\Users\david\source\repos\Klasser\Klasser\obj\Debug\netcoreapp3.1\Klasser.genruntimeconfig.cache
